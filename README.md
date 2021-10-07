@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TylerASwanson
-- 👀 I’m interested in Software Development/Cyber Security
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Front-End Web Developement
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me 
 
