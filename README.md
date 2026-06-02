@@ -1,7 +1,7 @@
 -  Hi, I’m Tyler Swanson :)
 -  I’m interested in Cloud Engineering
 -  I’m currently working towards my AZ-900
--  I’m looking to collaborate on anything
+-  I’m looking to collaborate
 -  Reach me at Tylersimportantemail@gmail.com
 
 <!---
