@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TylerASwanson
-- 👀 I’m interested in Front-End Web Developement
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me 
+-  Hi, I’m Tyler Swanson :)
+-  I’m interested in Cloud Engineering
+-  I’m currently working towards my AZ-900
+-  I’m looking to collaborate on anything
+-  Reach me at Tylersimportantemail@gmail.com
 
 <!---
 TylerASwanson/TylerASwanson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
